@@ -13,6 +13,7 @@ or python -m pip install requests beautifulsoup4 tqdm
 Also make sure it's all up-to-date
 
 3. You need Windows this shold not work on linux but you are free to test out
+4. Make sure that all files are in the same folder
 
 When your done with that then start menu.bat then go from there
 
