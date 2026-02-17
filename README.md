@@ -7,8 +7,9 @@ To use it you need some things.
 2. You need to download the modules here:
 requests, bs4, tqdm.
 
-Quick pip install command for all three
-pip install requests beautifulsoup4 tqdm or python -m pip install requests beautifulsoup4 tqdm
+Quick pip install command for all three: pip install requests beautifulsoup4 tqdm 
+or python -m pip install requests beautifulsoup4 tqdm
+
 Also make sure it's all up-to-date
 4. You need Windows this shold not work on linux but you are free to test out
 
