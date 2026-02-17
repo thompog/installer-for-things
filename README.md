@@ -11,6 +11,7 @@ Quick pip install command for all three: pip install requests beautifulsoup4 tqd
 or python -m pip install requests beautifulsoup4 tqdm
 
 Also make sure it's all up-to-date
+
 4. You need Windows this shold not work on linux but you are free to test out
 
 When your done with that then start menu.bat then go from there
